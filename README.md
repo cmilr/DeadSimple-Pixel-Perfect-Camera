@@ -3,7 +3,7 @@ The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script
 
 ![](screenshot.png)
 
-Pixel art by Buch, at http://opengameart.org/users/buch
+##### Sample pixel art by Buch, at http://opengameart.org/users/buch
 
 ## What This Script Does (and Doesn't)
 This script will make sure your pixel art looks pretty at any screen size—in other words, every pixel in your original artwork will be displayed at the same size as every other pixel, so you won't get any weird non-square pixels/blobs (blech.) 
