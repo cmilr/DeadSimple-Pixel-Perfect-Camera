@@ -4,9 +4,13 @@ The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script
 ![](screenshot.png)
 
 ## Installation
-Fork or download this repository to your local machine, then either load up the sample project in Unity, or simply drag the DSPixelPerfectCamera.cs file onto your orthographic camera.
+Fork or download this repository to your local machine, then either load up the sample project in Unity, or simply drag the DSPixelPerfectCamera.cs file onto the orthographic camera in your current project.
 
-## Usage example
+Then:
+- On the script's inspector, set **Pixels Per Unit** to match that of your artwork.
+- Set **Vertical Units On Screen** to
+
+## Importing Art
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 ## Development setup
