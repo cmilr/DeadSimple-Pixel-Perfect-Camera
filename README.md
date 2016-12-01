@@ -29,6 +29,8 @@ To view your scene in pixel-perfect fashion in the Unity Editor, make sure you h
 
 By the same token, you will want to turn off **Default is Full Screen** in the player settings of your build, otherwise, your game's display will be stretched-to-fit—ruining the hard work you put into your pixel art.
 
+# Thanks for using DeadSimple Pixel-Perfect Camera!
+I hope you find it useful.
 
 ##
 
@@ -41,4 +43,3 @@ By the same token, you will want to turn off **Default is Full Screen** in the p
 
 ### License
 Distributed under the MIT license. See ``LICENSE`` for more information.
-# Thanks for using DeadSimple Pixel-Perfect Camera!
