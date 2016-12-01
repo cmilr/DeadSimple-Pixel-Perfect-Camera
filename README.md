@@ -21,7 +21,7 @@ In order to produce perfect pixel art, you need to import your artwork with the 
 - **Pixels Per Unit** > To match your artwork
 - **Generate Mip Maps** > Off
 - **Filter Mode** > Point (no filter)
-- **Max Size** > Largest size available
+- **Max Size** > 8192
 - **Format** > Truecolor
 
 ## Other Required Settings
