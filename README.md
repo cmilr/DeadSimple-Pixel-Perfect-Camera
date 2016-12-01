@@ -2,7 +2,7 @@
 The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script for producing crisp, clean pixel art at any resolution in Unity.
 
 ![](screenshot.png)
-##### Sample pixel art by Buch, at http://opengameart.org/users/buch
+##### Sample pixel art by Buch—reachable at OpenGameArt.org http://opengameart.org/users/buch, or Patreon.com https://www.patreon.com/buch.
 
 ## What This Script Does (and Doesn't)
 This script will make sure your pixel art looks pretty at any screen size—in other words, every pixel in your original artwork will be displayed at the same size as every other pixel, so you won't get any weird non-square pixels/blobs (blech.) 
@@ -40,5 +40,6 @@ By the same token, you will want to turn off **Default is Full Screen** in the p
 - GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
 
 ### License
-The DSPixelPerfectCamera.cs script is distributed under the MIT license. See ``LICENSE`` for more information.
-The artwork included in this repository is for example only, and is copyright Michele Bucelli. You can find more of Buch's great artwork on his profile page at OpenGameArt.org http://opengameart.org/users/buch.
+The ***DSPixelPerfectCamera.cs*** script is distributed under the MIT license. See ``LICENSE`` for more information.
+
+All ***artwork*** included in this repository is for example only, and is copyright Michele Bucelli. You can find more of Buch's great artwork at OpenGameArt.org http://opengameart.org/users/buch, or Patreon.com https://www.patreon.com/buch.
