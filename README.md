@@ -1,11 +1,6 @@
 # DeadSimple Pixel-Perfect Camera
-> An easy-to-use, truly dead-simple pixel perfect orthographic camera script for Unity3D.
+The DeadSimple pixel-perfect camera is just that—an easy-to-use pixel perfect orthographic camera script for Unity3D, built for producing crisp, clean pixel art at any resolution.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
 
 ![](screenshot.png)
 
