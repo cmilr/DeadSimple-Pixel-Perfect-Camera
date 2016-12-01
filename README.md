@@ -2,6 +2,7 @@
 The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script for producing crisp, clean pixel art at any resolution in Unity.
 
 ![](screenshot.png)
+#### Art by Buch, at http://opengameart.org/users/buch
 
 ## What This Script Does (and Doesn't)
 This script will make sure your pixel art looks pretty at any screen size—in other words, every pixel in your original artwork will be displayed at the same size as every other pixel, so you won't get any weird non-square pixels/blobs (blech.) 
@@ -30,9 +31,6 @@ To view your scene in pixel-perfect fashion in the Unity Editor, make sure you h
 By the same token, you will want to turn off **Default is Full Screen** in the player settings of your build, otherwise, your game's display will be stretched-to-fit—ruining the hard work you put into your pixel art.
 
 # Thanks for using DeadSimple Pixel-Perfect Camera!
-I hope you find it useful.
-
-##
 
 ### Contact
 - Email: cary.a.miller@gmail.com
