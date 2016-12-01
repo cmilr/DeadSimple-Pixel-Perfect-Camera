@@ -40,4 +40,5 @@ By the same token, you will want to turn off **Default is Full Screen** in the p
 - GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
 
 ### License
-Distributed under the MIT license. See ``LICENSE`` for more information.
+The DSPixelPerfectCamera.cs script is distributed under the MIT license. See ``LICENSE`` for more information.
+The artwork included in this repository is for example only, and is copyright Michele Bucelli. You can find more of Buch's great artwork on his profile page at OpenGameArt.org http://opengameart.org/users/buch.
