@@ -3,12 +3,16 @@ The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script
 
 ![](screenshot.png)
 
-## Installation
-Fork or download this repository to your local machine, then either load up the sample project in Unity, or simply drag the DSPixelPerfectCamera.cs file onto the orthographic camera in your current project.
+## What This Script Does (and Doesn't)
+This script will make sure your pixel art looks pretty at any screen size—in other words, every pixel in your original artwork will be displayed at the same size as every other pixel, so you won't get any weird non-square pixels/blobs (blech.) 
 
-Then:
+What this script *won't* do is force your character sprites to only move in single-pixel increments. That is a function more suited to  your controller.
+
+## Installation
+Fork or download this repository to your local machine, then either load up the sample project in Unity, or simply drag the DSPixelPerfectCamera.cs file onto the orthographic camera in your current project. Then:
+
 - On the script's inspector, set **Pixels Per Unit** to match that of your artwork.
-- Set **Vertical Units On Screen** to
+- Set **Vertical Units On Screen** to whatever you like. This setting allows you to set the camera's zoom—automatically adapting it for perfect pixel placement. **Example:** If you set this to 10, you are telling the script that you'd like to fit roughly ten Unity units vertically on the screen. I emphasize *roughly* because the script will pick a setting closest to what you requested that still allows for pixel perfect placement.
 
 ## Importing Art
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
