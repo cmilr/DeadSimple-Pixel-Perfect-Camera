@@ -2,7 +2,6 @@
 The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script for producing crisp, clean pixel art at any resolution in Unity.
 
 ![](screenshot.png)
-
 ##### Sample pixel art by Buch, at http://opengameart.org/users/buch
 
 ## What This Script Does (and Doesn't)
