@@ -1,4 +1,4 @@
-# DeadSimple-Pixel-Perfect-Camera
+# DeadSimple Pixel-Perfect Camera
 > An easy-to-use, truly dead-simple pixel perfect orthographic camera script for Unity3D.
 
 [![NPM Version][npm-image]][npm-url]
