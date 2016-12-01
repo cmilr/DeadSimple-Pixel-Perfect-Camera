@@ -33,7 +33,7 @@ By the same token, you will want to turn off **Default is Full Screen** in the p
 # Thanks for using DeadSimple Pixel-Perfect Camera!
 
 ### Contact
-- Email: cary.a.miller@gmail.com
+- Email: cmilr.soft@gmail.com
 
 ### Social Media
 - Twitter: [@vintageD18](https://twitter.com/vintageD18)
