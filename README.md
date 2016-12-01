@@ -24,14 +24,11 @@ In order to produce perfect pixel art, you need to import your artwork with the 
 - **Max Size** > Largest size available
 - **Format** > Truecolor
 
-## Development setup
+## Other Required Settings
+To view your scene in pixel-perfect fashion in the Unity Editor, make sure you have **Maximize on Play** enabled. Anything that causes your scene to be rendered at less than 100% of the screen settings you have selected, will cause your artwork to look wonky in the Editor.
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+By the same token, you will want to turn off **Default is Full Screen** in the player settings of your build, otherwise, your game's display will be stretched-to-fit—ruining the hard work you put into your pixel art.
 
-```sh
-make install
-npm test
-```
 
 ##
 
