@@ -1,25 +1,12 @@
 # DeadSimple Pixel-Perfect Camera
-The DeadSimple pixel-perfect camera is just that—an easy-to-use pixel perfect orthographic camera script for Unity3D, built for producing crisp, clean pixel art at any resolution.
-
+The DeadSimple pixel-perfect camera is an easy-to-use orthographic camera script for producing crisp, clean pixel art at any resolution in Unity.
 
 ![](screenshot.png)
 
 ## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
+Fork or download this repository to your local machine, then either load up the sample project in Unity, or simply drag the DSPixelPerfectCamera.cs file onto your orthographic camera.
 
 ## Usage example
-
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 ## Development setup
@@ -30,21 +17,6 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
 
 ##
 
@@ -57,11 +29,4 @@ npm test
 
 ### License
 Distributed under the MIT license. See ``LICENSE`` for more information.
-# Thanks for using Unity2D Components!
-
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+# Thanks for using DeadSimple Pixel-Perfect Camera!
