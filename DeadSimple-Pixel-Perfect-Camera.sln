@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7F05B1B3-0BE6-D178-828A-4B9EF0FE595C}") = "DeadSimple-Pixel-Perfect-Camera", "Assembly-CSharp.csproj", "{656FD450-DE87-80A1-8621-1000072BBC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656FD450-DE87-80A1-8621-1000072BBC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656FD450-DE87-80A1-8621-1000072BBC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656FD450-DE87-80A1-8621-1000072BBC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656FD450-DE87-80A1-8621-1000072BBC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

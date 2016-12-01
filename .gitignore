@@ -1,0 +1,67 @@
+﻿# User-specific files
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.sln.docstates
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp.csproj
+
+
+# Directories
+[Ll]ibrary/
+[Tt]emp/
+[Pp]olicies/
+[Pp]rojectSettings/
+
+
+# Build results
+[Rr]elease/
+[Oo]bj/
+[Bb]uild/
+x64/
+*_i.c
+*_p.c
+*.ilk
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+/iOSBuild/*
+*Build.app/
+*Build/*
+*Build
+*.app/*
+
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# Misc
+*sysinfo.txt
+*.pidb.meta
+*.unityproj
+*.Thumbs.db
+*.Thumbs.db.meta
+*.psd
+*icon.png
+*.meta
