@@ -9,13 +9,20 @@ This script will make sure your pixel art looks pretty at any screen size—in o
 What this script *won't* do is force your character sprites to only move in single-pixel increments. That is a function more suited to  your controller.
 
 ## Installation
-Fork or download this repository to your local machine, then either load up the sample project in Unity, or simply drag the DSPixelPerfectCamera.cs file onto the orthographic camera in your current project. Then:
+Fork or download this repository to your local machine, then either load up the sample project in Unity (and the Example scene,) or simply drag the DSPixelPerfectCamera.cs file onto the orthographic camera in your current project. Then:
 
 - On the script's inspector, set **Pixels Per Unit** to match that of your artwork.
 - Set **Vertical Units On Screen** to whatever you like. This setting allows you to set the camera's zoom—automatically adapting it for perfect pixel placement. **Example:** If you set this to 10, you are telling the script that you'd like to fit roughly ten Unity units vertically on the screen. I emphasize *roughly* because the script will pick a setting closest to what you requested that still allows for pixel perfect placement.
 
 ## Importing Art
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+In order to produce perfect pixel art, you need to import your artwork with the proper settings. If you don't, this camera script won't be of much use. In your sprite's inspector, make sure it's set-up for:
+
+- **Texture Type** > Sprite (2D & UI)
+- **Pixels Per Unit** > To match your artwork
+- **Generate Mip Maps** > Off
+- **Filter Mode** > Point (no filter)
+- **Max Size** > Largest size available
+- **Format** > Truecolor
 
 ## Development setup
 
