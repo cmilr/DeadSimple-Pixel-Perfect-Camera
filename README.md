@@ -36,7 +36,7 @@ By the same token, you will want to turn off **Default is Full Screen** in the p
 - Email: cary.a.miller@gmail.com
 
 ### Social Media
-- Twitter: [@vintageD18](https://twitter.com/vintageD18)
+- Twitter: [@cmilr_](https://twitter.com/cmilr_)
 - GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
 
 ### License
