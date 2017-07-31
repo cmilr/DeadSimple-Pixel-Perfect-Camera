@@ -6,6 +6,9 @@
 *.pidb
 *.booproj
 *.sln.docstates
+*.csproj
+*.sln
+*.userprefs
 Assembly-CSharp-Editor.csproj
 Assembly-CSharp-firstpass.csproj
 Assembly-CSharp.csproj
