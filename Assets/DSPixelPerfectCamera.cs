@@ -12,14 +12,12 @@ public class DSPixelPerfectCamera : MonoBehaviour
 	public int   PixelsPerUnit 		{ get { return pixelsPerUnit; } }
 	public int   VertUnitsOnScreen 	{ get { return verticalUnitsOnScreen; } }
 
-
 	[SerializeField]
 	private int pixelsPerUnit = 16;
 	[SerializeField]
 	private int verticalUnitsOnScreen = 4;
 	private float finalUnitSize;
 	private new Camera camera;
-
 
 	void Awake()
 	{
