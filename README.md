@@ -37,7 +37,7 @@ To view your scene in pixel-perfect fashion in the Unity Editor, make sure you h
 
 By the same token, you will want to turn off **Default is Full Screen** in the player settings of your build; otherwise, when you boot your standalone game its display will be stretched-to-fit, ruining the hard work you put into your pixel art.
 
-##
+## Questions?
 
 ### Contact
 - Email: cary.a.miller@gmail.com
