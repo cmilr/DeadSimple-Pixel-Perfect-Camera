@@ -1,11 +1,9 @@
-﻿
 // Usage: In the inspector, punch in your desired settings and then 
 // enter PLAY mode to apply.
 
 using UnityEngine;
-using UnityEngine.Assertions;
 
-[ExecuteInEditMode]
+[RequireComponent(typeof(Camera)), ExecuteInEditMode]
 public class DSPixelPerfectCamera : MonoBehaviour
 {
 	public float FinalUnitSize 		{ get { return finalUnitSize; } }
@@ -19,11 +17,9 @@ public class DSPixelPerfectCamera : MonoBehaviour
 	private float finalUnitSize;
 	private new Camera camera;
 
-	void Awake()
+	void Start()
 	{
-		camera = gameObject.GetComponent<Camera>();
-		Assert.IsNotNull(camera);
-
+		camera = GetComponent<Camera>();
 		SetOrthographicSize();
 	}
 
