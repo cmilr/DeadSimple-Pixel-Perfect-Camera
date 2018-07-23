@@ -61,13 +61,13 @@ public class DSPixelPerfectCamera : MonoBehaviour
 
 	void ValidateUserInput()
 	{
-		if (pixelsPerUnit == 0)
+		if (pixelsPerUnit <= 0)
 		{
 			pixelsPerUnit = 1;
 			Debug.Log("Warning: Pixels-per-unit must be greater than zero. " +
 			          "Resetting to minimum allowed.");
 		}
-		else if (verticalUnitsOnScreen == 0)
+		else if (verticalUnitsOnScreen <= 0)
 		{
 			verticalUnitsOnScreen = 1;
 			Debug.Log("Warning: Units-on-screen must be greater than zero." +
