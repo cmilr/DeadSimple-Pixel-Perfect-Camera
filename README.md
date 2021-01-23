@@ -43,7 +43,6 @@ By the same token, you will want to turn off **Default is Full Screen** in the p
 
 ### Contact
 - Email: cary.a.miller@gmail.com
-- Twitter: [@cmillerco](https://twitter.com/cmillerco)
 - GitHub: [cmilr](https://github.com/cmilr/)
 
 ### License
